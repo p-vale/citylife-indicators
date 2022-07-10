@@ -10,14 +10,17 @@ Please note that public code and data must comply with GDPR guidelines, thus the
 
 ## Indicators
 
-**Dog parks coverage**
+### Dog parks coverage
 This is a prime example of for neighbourhood services evaluation. The indicator calculates the percentage of population within a 500 meter buffer from dog parks. 
+Uses data from url.  
 
-Limitations: geolocalized population data isn't open, thus the coverage is calculated as percentage of area within 500m from dog parks over total area. Ideally, once the buffer area is complete, the result would be number of residents within the buffer area over total residents. 
+Limitations: geolocalized population data isn't open, thus the coverage is calculated as percentage of area within 500m from dog parks over total area. Ideally, once the buffer area is complete, the result would be number of residents within the buffer area over total residents.  
 
-**Industry variety**
-This indicator evaluates how diverse are the economic activities in the city and in each neighbourhood, which districts are more active and how each is characterized. For example, in this case-study the city center is characterized by shops and personal services, the hinterland by agricolture and the port by trades and factories.
+### Industry variety
+This indicator evaluates how diverse are the economic activities in the city and in each neighbourhood, which districts are more active and how each is characterized. For example, in this case-study the city center is characterized by shops and personal services, the hinterland by agricolture and the port by trades and factories. 
+Uses local data. 
 
-Limitations: only the top ten types of economic activities are shown in detail for each area. This is an arbitrary decision.
+Limitations: only the main activity of each company is evaluated. This is an arbitrary decision. 
 
-*Next: neighbourhood service with street network*
+  
+*Next: neighbourhood service with street network; demographical data*
