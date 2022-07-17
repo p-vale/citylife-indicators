@@ -8,6 +8,7 @@ It isn't an exhaustive set for quality of life or smart cities evaluations. Howe
 
 Please note that public code and data must comply with GDPR guidelines, thus the analyses are somewhat limited. Specifics are provided below and in each file. 
 
+
 ## Indicators
 
 ### Dog parks coverage
@@ -22,5 +23,15 @@ Uses local data.
 
 Limitations: only the main activity of each company is evaluated. This is an arbitrary decision. 
 
+### Population
+This file contains general demographic indicators: age, gender, nationality, families. 
+
+Limitations: geolocalized population data isn't open, thus the indicators are simple and based on synthetic data. 
+
+### School coverage
+Similarly to the Dog parks coverage, this indicator shows the distribution of schools in the city by grade. However, the coverage relative to users of the service isn't available.
+
+Limitations: geolocalized population data isn't open, thus only the physical distribution of schools in the districts is shown. 
+
   
-*Next: neighbourhood service with street network; demographical data*
+*Next: neighbourhood service with street network;*
