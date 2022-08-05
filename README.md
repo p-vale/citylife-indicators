@@ -8,6 +8,11 @@ It isn't an exhaustive set for quality of life or smart cities evaluations. Howe
 
 Please note that public code and data must comply with GDPR guidelines, thus the analyses are somewhat limited. Specifics are provided below and in each file. 
 
+## Folders
+
+"./data" contains copies of all the data needed for the indicators.   
+"./ra" contains a series of complete indicators for the city of Ravenna (IT) that expands the examples provided both in terms of analysis and design.
+
 
 ## Indicators
 
