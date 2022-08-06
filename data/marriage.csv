@@ -1,7 +1,10 @@
 Territorio,Rito,Time,Value
-Ravenna,religioso,2020,143
-Ravenna,civile,2020,585
-Ravenna,tutte le voci,2020,728
+Ravenna,religioso,2020,38
+Ravenna,civile,2020,255
+Ravenna,tutte le voci,2020,293
+comuni non capoluogo,religioso,2020,105
+comuni non capoluogo,civile,2020,330
+comuni non capoluogo,tutte le voci,2020,435
 Alfonsine,religioso,2020,2
 Alfonsine,civile,2020,15
 Alfonsine,tutte le voci,2020,17
@@ -11,12 +14,45 @@ Bagnacavallo,tutte le voci,2020,33
 Bagnara di Romagna,religioso,2020,1
 Bagnara di Romagna,civile,2020,7
 Bagnara di Romagna,tutte le voci,2020,8
-Bagno di Romagna,religioso,2020,4
-Bagno di Romagna,civile,2020,3
-Bagno di Romagna,tutte le voci,2020,7
+Brisighella,religioso,2020,9
+Brisighella,civile,2020,16
+Brisighella,tutte le voci,2020,25
+Casola Valsenio,religioso,2020,6
+Casola Valsenio,civile,2020,2
+Casola Valsenio,tutte le voci,2020,8
+Castel Bolognese,religioso,2020,3
+Castel Bolognese,civile,2020,13
+Castel Bolognese,tutte le voci,2020,16
+Cervia,religioso,2020,9
+Cervia,civile,2020,54
+Cervia,tutte le voci,2020,63
+Conselice,religioso,2020,2
+Conselice,civile,2020,13
+Conselice,tutte le voci,2020,15
+Cotignola,religioso,2020,6
+Cotignola,civile,2020,5
+Cotignola,tutte le voci,2020,11
 Faenza,religioso,2020,29
 Faenza,civile,2020,71
 Faenza,tutte le voci,2020,100
+Fusignano,religioso,2020,2
+Fusignano,civile,2020,12
+Fusignano,tutte le voci,2020,14
 Lugo,religioso,2020,18
 Lugo,civile,2020,51
 Lugo,tutte le voci,2020,69
+Massa Lombarda,religioso,2020,2
+Massa Lombarda,civile,2020,11
+Massa Lombarda,tutte le voci,2020,13
+Riolo Terme,religioso,2020,2
+Riolo Terme,civile,2020,3
+Riolo Terme,tutte le voci,2020,5
+Russi,religioso,2020,3
+Russi,civile,2020,24
+Russi,tutte le voci,2020,27
+Sant'Agata sul Santerno,religioso,2020,0
+Sant'Agata sul Santerno,civile,2020,5
+Sant'Agata sul Santerno,tutte le voci,2020,5
+Solarolo,religioso,2020,1
+Solarolo,civile,2020,5
+Solarolo,tutte le voci,2020,6
